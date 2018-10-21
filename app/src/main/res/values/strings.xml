@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">No:04_AlarmClock</string>
+    <string name="xml_text_01">鬧鈴設置時間：</string>
+    <string name="xml_btntext_01">設定鬧鐘</string>
+    <string name="xml_text_02">目前無鬧鈴設定</string>
+    <string name="xml_btntext_02">移除鬧鐘</string>
+    <string name="main_Text_01">鬧鈴已設置！</string>
+    <string name="dialog_title">Alarm Clock Setup：</string>
+    <string name="dialog_message">Time to wake up.</string>
+    <string name="dialog_btn">close</string>
+</resources>

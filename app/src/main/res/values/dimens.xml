@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xml_padding">16dp</dimen>
+    <dimen name="xml_textSize_60">60sp</dimen>
+    <dimen name="xml_layout_marginBottom">8dp</dimen>
+    <dimen name="xml_layout_height_2">2dp</dimen>
+    <dimen name="xml_layout_width">0dp</dimen>
+    <dimen name="xml_textSize_24">24sp</dimen>
+</resources>
